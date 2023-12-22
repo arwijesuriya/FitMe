@@ -1,0 +1,15 @@
+C:\Users\jallu_dev\Desktop\FitMe\bin\Debug\FitMe.exe.config
+C:\Users\jallu_dev\Desktop\FitMe\bin\Debug\FitMe.exe
+C:\Users\jallu_dev\Desktop\FitMe\bin\Debug\FitMe.pdb
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.csproj.AssemblyReference.cache
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.home.resources
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.Properties.Resources.resources
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.csproj.GenerateResource.cache
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.csproj.CoreCompileInputs.cache
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.exe
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.pdb
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.FitnessResults.resources
+C:\Users\jallu_dev\Desktop\FitMe\obj\Debug\FitMe.NutritionAdvices.resources
+C:\Users\Achira Wijesuriya\Desktop\FitMe\FitMe\obj\Debug\FitMe.csproj.AssemblyReference.cache
+C:\Users\Achira Wijesuriya\Desktop\FitMe\FitMe\obj\Debug\FitMe.exe
+C:\Users\Achira Wijesuriya\Desktop\FitMe\FitMe\obj\Debug\FitMe.pdb
