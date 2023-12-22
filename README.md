@@ -6,3 +6,4 @@ IT2143 Visual Programming (Using C# programming language) Group project for 2nd 
 - Source code files
 - Project documentation
 - Additional resources
+- Demo video
